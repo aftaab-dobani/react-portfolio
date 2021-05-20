@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/aftaab-dobani/react-portfolio/static/css/main.20921db5.chunk.css",
+    "main.js": "/aftaab-dobani/react-portfolio/static/js/main.0cff6830.chunk.js",
+    "main.js.map": "/aftaab-dobani/react-portfolio/static/js/main.0cff6830.chunk.js.map",
+    "runtime-main.js": "/aftaab-dobani/react-portfolio/static/js/runtime-main.90177ce0.js",
+    "runtime-main.js.map": "/aftaab-dobani/react-portfolio/static/js/runtime-main.90177ce0.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/aftaab-dobani/react-portfolio/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.e47aa20c.chunk.js": "/aftaab-dobani/react-portfolio/static/js/2.e47aa20c.chunk.js",
+    "static/js/2.e47aa20c.chunk.js.map": "/aftaab-dobani/react-portfolio/static/js/2.e47aa20c.chunk.js.map",
+    "static/js/3.a665c742.chunk.js": "/aftaab-dobani/react-portfolio/static/js/3.a665c742.chunk.js",
+    "static/js/3.a665c742.chunk.js.map": "/aftaab-dobani/react-portfolio/static/js/3.a665c742.chunk.js.map",
+    "index.html": "/aftaab-dobani/react-portfolio/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/aftaab-dobani/react-portfolio/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.20921db5.chunk.css.map": "/aftaab-dobani/react-portfolio/static/css/main.20921db5.chunk.css.map",
+    "static/js/2.e47aa20c.chunk.js.LICENSE.txt": "/aftaab-dobani/react-portfolio/static/js/2.e47aa20c.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/aftaab-dobani/react-portfolio/static/media/port-background.fbcd2c18.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90177ce0.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.e47aa20c.chunk.js",
+    "static/css/main.20921db5.chunk.css",
+    "static/js/main.0cff6830.chunk.js"
+  ]
+}
