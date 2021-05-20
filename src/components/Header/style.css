@@ -1,0 +1,20 @@
+.header-wrapper {
+    position: relative;
+    background: url(/Users/Aftaab/gt/homework/portfolio/src/port-background.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+
+.main-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.main-info h1 {
+    color: white;
+    text-transform: uppercase;
+}
