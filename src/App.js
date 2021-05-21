@@ -3,6 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import Navbar from "./components/Navbar/Navbar"
 import Header from "./components/Header/Header"
 import AboutMe from "./components/About/About"
+import Portfolio from "./components/Portfolio/Portfolio"
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
     <Navbar />
     <Header />
     <AboutMe />
+    <Portfolio />
     </>
   );
   }

@@ -1,0 +1,18 @@
+.portfolio-wrapper {
+    background: lightgray;
+    padding: 3rem 0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.project-image {
+    width: 15rem;
+    border: 1px solid white;
+    padding: 0 0.5rem;
+}
+
+.project-image-box {
+    position: center;
+    margin: 1rem;
+}

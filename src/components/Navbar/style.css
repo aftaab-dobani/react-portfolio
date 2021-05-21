@@ -12,3 +12,7 @@ nav link {
 nav ul li {
     text-transform: capitalize;
 }
+
+navbar wrapper {
+    background-color: lightgray;
+}
