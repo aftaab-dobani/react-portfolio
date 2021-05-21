@@ -1,5 +1,6 @@
 import React from 'react'
 import "./style.css"
+import {Link} from "react-scroll"
 
 const Navbar = () => {
     return (
@@ -12,16 +13,13 @@ const Navbar = () => {
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav ml-auto">
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">About Me</a>
+          <Link smooth={true} to="about" className="nav-link active" aria-current="page" href="#">About Me</Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Projects</a>
+          <Link smooth={true} to="portfolio" className="nav-link" href="#">Projects</Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Resume</a>
-        </li>
-        <li className="nav-item">
-          <a className="nav-link" href="#">Contact Me</a>
+          <Link smooth={true} to="footer" className="nav-link" href="#">Contact Me</Link>
         </li>
         
         
