@@ -5,7 +5,7 @@
 In this project, I completed a version of my portfolio using react and bootstrap. 
 
 # Deployed Link 
-
+https://aftaab-dobani.github.io/react-portfolio/ 
 
 # Questions 
 If you have any questions or inquiries feel free to contact me below 
